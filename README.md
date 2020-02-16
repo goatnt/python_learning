@@ -1,5 +1,8 @@
 # python_learning
-staffs of python coding
-123456
-6666
-777
+#123456
+#6666
+#777
+#>>>>>>> master
+
+
+print('show me the money!')
